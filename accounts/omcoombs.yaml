@@ -1,0 +1,15 @@
+email: omcoombs@gmail.com
+fullname: 'Oliver Monaghan-Coombs'
+title: Administrator
+state: enabled
+access:
+  admin:
+    super: 'true'
+    login: 'true'
+  site:
+    login: 'true'
+hashed_password: $2y$10$PtF5b6tZffzNmT825tTW5uhikRk9jm7Pb1Caza.8nS.cpHHMMme06
+language: en
+login_attempts: {  }
+twofa_secret: STUJV6TDRS6VJ6OARVAA5IDPPABAV4EM
+twofa_enabled: false
